@@ -62,8 +62,8 @@ Tech Stack: `React`, `Django`, `SMTP`, `HTML`, `CSS`
 ## 📜 Certifications
 
 - ✅ Data Structures and Algorithms using Python – [NPTEL](https://drive.google.com/file/d/1boI5_kir2CkZfiTuDQC9whEp8GO_pERn/view?usp=drive_link)
-- ✅ Relational Database Basics – [IBM]---(https://drive.google.com/file/d/1rGWtDXraIMvica1dPnwrf1qC8f9uLcyy/view?usp=drive_link)
-- ✅ HTML, CSS, JavaScript – [Infosys Springboard]---(https://drive.google.com/file/d/1rGWtDXraIMvica1dPnwrf1qC8f9uLcyy/view?usp=drive_link)
+- ✅ Relational Database Basics – [IBM](https://drive.google.com/file/d/1rGWtDXraIMvica1dPnwrf1qC8f9uLcyy/view?usp=drive_link)
+- ✅ HTML, CSS, JavaScript – [Infosys Springboard](https://drive.google.com/drive/folders/1ePIUSxuZHZwSA3C7vXbKJp-qQbXgz-4k?usp=drive_link)
 
 ## 🏆 Achievements
 

@@ -73,8 +73,8 @@ Tech Stack: `React`, `Django`, `SMTP`, `HTML`, `CSS`
 
 ## 🏆 Achievements
 
-- 🧩 Solved **250+** problems on [LeetCode](https://leetcode.com/u/sai_since2004/)  
-- 📈 Highest contest rating: **1500+**  
+- 🧩 Solved **300+** problems on [LeetCode](https://leetcode.com/u/sai_since2004/)  
+- 📈 Highest contest rating: **1570**  
 - 👨‍💻 Participated in 24hr Hackathon: **#SUSHACKS**
 
 ---

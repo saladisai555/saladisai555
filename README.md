@@ -46,12 +46,6 @@
 </p>
 
 ---
-## 📊 GitHub Stats & Top Languages
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=saladisai555&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Sai Saladi's GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saladisai555&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
-</p>
 
 ## 🧪 Projects
 
